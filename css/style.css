@@ -1,0 +1,19 @@
+#container {
+    width: 500px;
+    height: 100%;
+}
+#work_txt {
+    width: 100%
+}
+.main>button {
+    float: right;
+}
+.worklist {
+    margin: 0;
+    list-style: none;
+    padding: 10px;
+    border: 1px solid black;
+}
+.worklist .remove {
+    float: right;
+}
